@@ -37,7 +37,7 @@ The implementation follows a **least-privilege and security-first approach**, en
 
 ## 📄 Documentation
 
-The complete technical documentation, including implementation steps, IAM policies, resource configurations, security controls, screenshots, testing, and results, is available in the project documentation:
+The complete technical documentation, including implementation steps, IAM policies, resource configurations, security controls, screenshots, testing, and results, is available in the project documentation.
 
 ## 💡 Key Skills Demonstrated
 
